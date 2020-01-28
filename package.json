@@ -30,7 +30,7 @@
     "nested"
   ],
   "dependencies": {
-    "sortablejs": "^1.10.1"
+    "sortablejs": "1.9.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
